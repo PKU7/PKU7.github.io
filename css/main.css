@@ -1,0 +1,13 @@
+@import url("lavish-bootstrap.css");
+
+
+body {
+     background: url("http://medialoot.com/images/size/1140x430_abstract-mosaic-backgrounds-post-image.jpg");
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     color: #333;
+     text-align: center;
+     font-family: helvetica;
+     min-height: 1000px;
+ }
